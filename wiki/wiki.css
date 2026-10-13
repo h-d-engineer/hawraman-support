@@ -18,6 +18,8 @@ a { color: var(--accent); } .lead { font-size: 1.1rem; }
 .toc { display: flex; flex-wrap: wrap; gap: 6px; } .toc a { background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 2px 12px; text-decoration: none; }
 .card { display: flex; gap: 16px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 14px; margin: 12px 0; scroll-margin-top: 110px; }
 .card .art { flex: 0 0 150px; display: flex; align-items: center; justify-content: center; } .card .art img { max-width: 150px; max-height: 150px; }
+.lvart { display: flex; flex-wrap: wrap; align-items: flex-end; gap: 6px 14px; margin: .3rem 0 .7rem; padding: 8px 10px; border-radius: 10px; background: linear-gradient(#dfeaec, #e3ebd3); } .lvart figure { margin: 0; text-align: center; } .lvart img { display: block; margin: 0 auto; max-width: 100%; height: auto; } .lvart figcaption { color: var(--muted); font-size: .82rem; } .lookt { margin: .5rem 0 .1rem; font-weight: 600; font-size: .92rem; }
+@media (prefers-color-scheme: dark) { .lvart { background: linear-gradient(#2b3b44, #33402c); } }
 .anim { margin: .6rem 0; } .anim img { display: block; width: 320px; max-width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--line); } .anim figcaption { color: var(--muted); font-size: .88rem; margin-top: .2rem; }
 .card .body { flex: 1; min-width: 0; } .facts { color: var(--muted); font-size: .92rem; }
 .tag { font-size: .75rem; font-weight: 600; color: var(--muted); }
