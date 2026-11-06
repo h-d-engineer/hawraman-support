@@ -1,0 +1,70 @@
+{
+ "t-shepherd.png": [
+  "shepherd_shepherd",
+  125
+ ],
+ "t-dog.png": [
+  "a_dog",
+  78
+ ],
+ "t-rooster.png": [
+  "a_rooster",
+  53
+ ],
+ "t-slinger.png": [
+  "youngwoman_slinger",
+  123
+ ],
+ "t-lat.png": [
+  "youngman_lat",
+  153
+ ],
+ "t-beekeeper.png": [
+  "youngman_beekeeper",
+  135
+ ],
+ "t-kolabal.png": [
+  "youngman_kolabal",
+  161
+ ],
+ "t-horse.png": [
+  "youngman_horse",
+  178
+ ],
+ "t-ahmad.png": [
+  "ahmad",
+  145
+ ],
+ "t-gulbahar.png": [
+  "gulbahar",
+  126
+ ],
+ "t-wolf.png": [
+  "a_wolf",
+  82
+ ],
+ "t-bear.png": [
+  "a_bear",
+  120
+ ],
+ "t-chicken.png": [
+  "a_chicken",
+  41
+ ],
+ "t-goat.png": [
+  "a_goat",
+  74
+ ],
+ "t-sheep.png": [
+  "a_sheep",
+  72
+ ],
+ "t-cow.png": [
+  "a_cow",
+  106
+ ],
+ "t-donkey.png": [
+  "a_donkey",
+  101
+ ]
+}
